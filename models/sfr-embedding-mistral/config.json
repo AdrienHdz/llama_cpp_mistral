@@ -1,7 +1,7 @@
 {
   "_name_or_path": "Salesforce/SFR-Embedding-Mistral",
   "architectures": [
-    "MistralModel"
+    "MistralForCausalLM"
   ],
   "attention_dropout": 0.0,
   "bos_token_id": 1,
