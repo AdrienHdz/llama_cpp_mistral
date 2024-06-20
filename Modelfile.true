@@ -1,0 +1,1 @@
+FROM /home/ubuntu/llama_cpp_mistral/models/ggml-sfr-embedding-mistral-f16.gguf

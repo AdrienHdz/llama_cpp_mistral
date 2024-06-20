@@ -1,0 +1,2 @@
+FROM /home/ubuntu/llama_cpp_mistral/models/sfr-embedding-mistral.f16.gguf
+
